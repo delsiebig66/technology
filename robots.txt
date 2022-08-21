@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delsiebig66.github.io/technology/sitemapx.xml
